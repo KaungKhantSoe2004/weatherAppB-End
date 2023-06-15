@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "email": "kaungkhants892@gmail.com",
+      "password": "$2a$10$G6s/YeGJAfxxsnbHIOwo4.jBMx1ybbyjTUcAlggBytaKiKFZaurfa",
+      "id": 1
+    }
+  ],
+  "students": [
+    {
+      "Name": "robin",
+      "number": "09789654",
+      "email": "robin@gmail.com",
+      "id": 2
+    },
+    {
+      "Name": "zoro",
+      "number": "09897654321",
+      "email": "zoro@gmail.com",
+      "id": 3
+    }
+  ]
+}
